@@ -77,6 +77,29 @@ li:last-child {
     font-style: italic;
 }
 
+/*
 article p:last-child {
     color: red;
+}
+*/
+
+/* styling hyperlinks */
+a:link {
+    color: #1098ad;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #1098ad;
+}
+
+a:hover {
+    color: orangered;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+a:active {
+    background-color: black;
+    font-style: italic;
 }
