@@ -27,6 +27,11 @@ h3 {
     color: #1098ad;
 }
 
+.container {
+    width: 800px;
+    margin: 0 auto;
+}
+
 body {
     color: #444;
     font-family: sans-serif;
@@ -42,6 +47,11 @@ body {
 
 .post-header {
     margin-bottom: 40px;
+}
+
+.post-image {
+    width: 100%;
+    height: auto;
 }
 
 aside {
